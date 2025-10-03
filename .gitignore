@@ -1,0 +1,18 @@
+# Python кэш
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
+
+# Файлы с чувствительными данными (если есть)
+config.py
+google.txt
+main.py
